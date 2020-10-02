@@ -1,12 +1,19 @@
-A DevOps Engineer has to manage the IT infrastructure as per the requirement of the supported software code that is dedicated in a hybrid multi-tenant environment. There is a need to have some resources for provisioning and getting the appropriate deployment model and also for validating and monitoring the performance.
+A DevOps Engineer has to manage the IT infrastructure as per the requirement of the supported software code that is dedicated in a hybrid multi-tenant environment. 
+There is a need to have some resources for provisioning and getting the appropriate deployment model and also for validating and monitoring the performance.
 
-There is a need for DevOps Engineers to connect various elements of coding along with libraries and software development kits and integrate various components of SQL data management or messaging tools for running software release with the operating system and the production infrastructure.
+There is a need for DevOps Engineers to connect various elements of coding along with libraries and software development kits and integrate various components 
+of SQL data management or messaging tools for running software release with the operating system and the production infrastructure.
 
-As said earlier, the DevOps approach to software development requires frequent, incremental changes, and DevOps Engineers rarely code from scratch. However, they must understand the basics of software development languages and be familiar with the development tools used to create a new code or update the existing one.
+As said earlier, the DevOps approach to software development requires frequent, incremental changes, and DevOps Engineers rarely code from scratch. 
+However, they must understand the basics of software development languages and be familiar with the development tools used to create a new code or update the existing one.
 
-A DevOps Engineer will work with development staff to tackle the coding and scripting needed to connect elements of the code, such as libraries or software development kits (SDKs) and integrate other components such as SQL data management or messaging tools that are needed to run the software release with operating systems and production infrastructure.
+A DevOps Engineer will work with development staff to tackle the coding and scripting needed to connect elements of the code, such as libraries or software 
+development kits (SDKs) and integrate other components such as SQL data management or messaging tools that are needed to run the software release with
+operating systems and production infrastructure.
 
-The role of a DevOps Engineer is not just taking care of one task or taking up one responsibility. He has to juggle between multiple roles in order to do justice to the position that is assigned to him. There is a need to have various skill sets like coding, integration, and testing. Responsibilities of the DevOps Engineer also include solving the organizational problems and improving the business process.
+The role of a DevOps Engineer is not just taking care of one task or taking up one responsibility. He has to juggle between multiple roles in order to do
+justice to the position that is assigned to him. There is a need to have various skill sets like coding, integration, and testing. Responsibilities 
+of the DevOps Engineer also include solving the organizational problems and improving the business process.
 
 https://intellipaat.com/blog/what-does-a-devops-engineer-do/#:~:text=A%20DevOps%20Engineer%20will%20work,the%20integration%20and%20deployment%20processes.&text=DevOps%20aims%20at%20coupling%20a%20tighter%20alignment%20between%20IT%20operations%20and%20businesses.
 Retrieved 2020-10-02.
