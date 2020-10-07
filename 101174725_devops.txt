@@ -1,5 +1,6 @@
 Information about the course COMP3104:
 
 In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a
-available and implement hands-on work using industry standard toolkit. Create solution to complex business
+available and implement hands-on work using industry standard toolkit.
+Create solution to complex business
 problem by adhering to the core responsibilities of DevOps.
