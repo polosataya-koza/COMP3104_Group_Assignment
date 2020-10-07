@@ -4,4 +4,4 @@ It is important to learn DEVOPS, because it can help with the following:
 2.	Remove manual tasks both of a mundane or complex nature.
 3.	Enforce best security practices.
 4.	Expedite product delivery.
-5.	Improve communication and collaboration across teams
+5.	Improve communication and collaboration across teams.
