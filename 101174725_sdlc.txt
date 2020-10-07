@@ -1,4 +1,5 @@
 It is important to learn DEVOPS, because it can help with the following:
+
 1.	Drastically reduce IT overhead
 2.	Remove manual tasks both of a mundane or complex nature
 3.	Enforce best security practices
