@@ -1,0 +1,24 @@
+In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a
+workplace environment to increase productivity. Analyze and evaluate various developer operation implementation
+available and implement hands-on work using industry standard toolkit. Create solution to complex business
+problem by adhering to the core responsibilities of DevOps.
+
+Course Learning Outcomes
+
+CLO 1 COMP3104 CLO1 - Demonstrate knowledge of effective DevOps techniques and be able to
+provide solutions using industry standard tools and techniques such as continuous
+integration/delivery/deployment strategies, software development lifecycle, application
+containerization for deployment, etc.
+CLO 2 COMP3104 CLO2 - Perform hand-on lab work by applying DevOps techniques.
+CLO 3 COMP3104 CLO3 - Ensure effective cross collaboration amongst IT staff by following role and
+responsibilities of an engineer.
+CLO 4 COMP3104 CLO4 - Analyze and utilize Version Control System workflows for low-risk software
+releases.
+CLO 5 COMP3104 CLO5 - Take well informed architectural decisions for software products, specifically in
+the context of monolith vs microservice architectures.
+CLO 6 COMP3104 CLO6 - Monitor code quality and deploy applications to hosting services.
+CLO 7 COMP3104 CLO7 - Utilize service platforms such as Infrastructure as Code and the associated
+benefits of cloud computing products
+CLO 8 COMP3104 CLO8 - Identify the market space as a DevOps engineer.
+
+Referenced from George Brown College DevOps outline
